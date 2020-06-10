@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C1A73</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#F7F6F6</color>
+    <color name="whiteOpac">#65F7F4F4</color>
+    <color name="ButtonColor">#EB1A78</color>
+    <color name="black">#070707</color>
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
+    <color name="tfe_semi_transparent">#66000000</color>
+
+</resources>

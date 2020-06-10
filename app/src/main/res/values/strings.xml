@@ -1,0 +1,13 @@
+<resources>
+    <string name="appName">Fyp1</string>
+    <string name="instructions">Instructions</string>
+    <string name="tap_once_to_open_day_mode">Tap Once To Open Day Mode</string>
+    <string name="tap_twice_to_open_night_mode">Tap Twice To Open Night Mode</string>
+    <string name="add">Add</string>
+    <string name="tap_once_to_add_new_item">Tap Once To Add New Item</string>
+    <string name="tap_twice_to_view_your_items">Tap Twice To View Your Items</string>
+
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">TFL Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+    </resources>
